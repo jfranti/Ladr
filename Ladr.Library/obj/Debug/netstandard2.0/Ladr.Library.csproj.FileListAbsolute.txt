@@ -1,0 +1,9 @@
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Library\bin\Debug\netstandard2.0\Ladr.Library.deps.json
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Library\bin\Debug\netstandard2.0\Ladr.Library.dll
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Library\bin\Debug\netstandard2.0\Ladr.Library.pdb
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Library\obj\Debug\netstandard2.0\Ladr.Library.csprojAssemblyReference.cache
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Library\obj\Debug\netstandard2.0\Ladr.Library.csproj.CoreCompileInputs.cache
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Library\obj\Debug\netstandard2.0\Ladr.Library.AssemblyInfoInputs.cache
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Library\obj\Debug\netstandard2.0\Ladr.Library.AssemblyInfo.cs
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Library\obj\Debug\netstandard2.0\Ladr.Library.dll
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Library\obj\Debug\netstandard2.0\Ladr.Library.pdb

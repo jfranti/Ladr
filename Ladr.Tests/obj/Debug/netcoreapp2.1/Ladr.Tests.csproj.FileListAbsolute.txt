@@ -1,0 +1,17 @@
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\obj\Debug\netcoreapp2.1\Ladr.Tests.csprojAssemblyReference.cache
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\obj\Debug\netcoreapp2.1\Ladr.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\obj\Debug\netcoreapp2.1\Ladr.Tests.AssemblyInfoInputs.cache
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\obj\Debug\netcoreapp2.1\Ladr.Tests.AssemblyInfo.cs
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\bin\Debug\netcoreapp2.1\Ladr.Tests.deps.json
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\bin\Debug\netcoreapp2.1\Ladr.Tests.runtimeconfig.json
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\bin\Debug\netcoreapp2.1\Ladr.Tests.runtimeconfig.dev.json
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\bin\Debug\netcoreapp2.1\Ladr.Tests.dll
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\bin\Debug\netcoreapp2.1\Ladr.Tests.pdb
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\bin\Debug\netcoreapp2.1\Ladr.Library.dll
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\bin\Debug\netcoreapp2.1\Ladr.Library.pdb
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\obj\Debug\netcoreapp2.1\Ladr.Tests.csproj.CopyComplete
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\obj\Debug\netcoreapp2.1\Ladr.Tests.dll
+C:\Users\jfran\Projects\Ladr.Solution\Ladr.Tests\obj\Debug\netcoreapp2.1\Ladr.Tests.pdb
