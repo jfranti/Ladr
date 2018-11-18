@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jfran\\Projects\\Ladr.Solution\\Ladr.Mvc\\Ladr.Mvc.csproj",
+      "projectUniqueName": "c:\\Users\\jfran\\Projects\\Ladr.Solution\\Ladr.Mvc\\Ladr.Mvc.csproj",
       "projectName": "Ladr.Mvc",
-      "projectPath": "C:\\Users\\jfran\\Projects\\Ladr.Solution\\Ladr.Mvc\\Ladr.Mvc.csproj",
+      "projectPath": "c:\\Users\\jfran\\Projects\\Ladr.Solution\\Ladr.Mvc\\Ladr.Mvc.csproj",
       "packagesPath": "C:\\Users\\jfran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jfran\\Projects\\Ladr.Solution\\Ladr.Mvc\\obj\\",
+      "outputPath": "c:\\Users\\jfran\\Projects\\Ladr.Solution\\Ladr.Mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
